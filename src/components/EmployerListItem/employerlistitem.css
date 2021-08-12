@@ -1,0 +1,32 @@
+.employerListItem {
+    width: 100%;
+    height: 70px;
+    margin-left: -40px;
+    margin-bottom: 5px;
+    border: 1px solid rgba(0,0,0,0.26);
+    display: flex;
+    align-items: center;
+}
+
+.funcionario {
+    display: flex;
+    margin-left: 10px;
+}
+
+.info {
+    margin-left: 20px;
+    margin-top: -5px;
+}
+
+.nomeFuncionario{
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.nomeCargo {
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(0,0,0,0.55);
+    margin: 0;
+}

@@ -1,0 +1,8 @@
+.homepage {
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%, 50%);
+    height: 500px;
+}
